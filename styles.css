@@ -1,0 +1,24 @@
+table{
+    font-style: italic;
+    border-collapse: collapse;
+    background-color: blueviolet;
+    border-width: 3px;
+    border-style: solid;
+    border-color: deeppink;
+    color: white;
+    border-width: thin;
+    table-layout: fixed;
+    text-decoration: none;
+    text-decoration-style: solid;
+    
+}
+th{
+    font-weight: bolder;
+    font-style: italic;
+    font-stretch: expanded;
+    background-color: aqua;
+    color: white;
+    font-family: sans-serif;
+    font-kerning: normal;
+    text-decoration: inherit;
+}
